@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Tabla de Invitados - Estilo Boda</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <style>
+      .container {
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        margin-top: 50px;
+      }
+
+      h2 {
+        color: rgb(219, 163, 9);
+        text-align: center;
+        margin-bottom: 30px;
+        font-family: "Georgia", sans-serif;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        border-spacing: 0;
+      }
+
+      th,
+      td {
+        border: 2px solid rgb(219, 163, 9);
+        padding: 8px;
+        text-align: center;
+      }
+
+      th {
+        background-color: rgb(219, 163, 9);
+        color: #fff;
+      }
+
+      button {
+        margin-right: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Lista de Invitados</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Fecha</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Ejemplo de fila de la tabla -->
+          <tr>
+            <td>1</td>
+            <td>John Doe</td>
+            <td>2023-09-30</td>
+            <td>
+              <button class="btn btn-danger">Editar</button>
+              <button class="btn btn-secondary">Borrar</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>
