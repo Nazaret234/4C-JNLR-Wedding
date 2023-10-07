@@ -41,7 +41,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-lg-8">
                 <div class="blog__single__items">
                     <div class="single__thumb">
-                        <img src="assets/img/blog/single/single.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/single/single.jpg" alt="blog__image">
                     </div>
                     <div class="single__content">
                         <h3>
@@ -82,14 +82,14 @@ if (!isset($_SESSION["validarIngreso"])) {
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="blog__items">
                                     <div class="blog__thumb">
-                                        <img src="assets/img/blog/blog3.jpg" alt="blog__image">
+                                        <img src="HTML/assets/img/blog/blog3.jpg" alt="blog__image">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="blog__items">
                                     <div class="blog__thumb">
-                                        <img src="assets/img/blog/blog2.jpg" alt="blog__image">
+                                        <img src="HTML/assets/img/blog/blog2.jpg" alt="blog__image">
                                     </div>
                                 </div>
                             </div>
@@ -123,7 +123,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                     <div class="riview__wrapper mt-5">
                         <div class="review__items d-flex mb-30">
                             <div class="review__thumb">
-                                <img src="assets/img/blog/single/comt1.png" alt="review-image">
+                                <img src="HTML/assets/img/blog/single/comt1.png" alt="review-image">
                             </div>
                             <div class="review__content">
                                 <div class="head__wrap d-flex align-items-center flex-wrap">
@@ -144,7 +144,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                     <div class="riview__wrapper style__riview">
                         <div class="review__items d-flex">
                             <div class="review__thumb">
-                                <img src="assets/img/blog/single/comt2.png" alt="review-image">
+                                <img src="HTML/assets/img/blog/single/comt2.png" alt="review-image">
                             </div>
                             <div class="review__content">
                                 <div class="head__wrap d-flex align-items-center">
@@ -165,7 +165,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                     <div class="riview__wrapper">
                         <div class="review__items d-flex">
                             <div class="review__thumb">
-                                <img src="assets/img/blog/single/comt3.png" alt="review-image">
+                                <img src="HTML/assets/img/blog/single/comt3.png" alt="review-image">
                             </div>
                             <div class="review__content">
                                 <div class="head__wrap d-flex align-items-center">
@@ -226,7 +226,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                 <div class="single__left__items">
                     <div class="items__box items mb-5">
                         <div class="box__thumb">
-                            <img src="assets/img/blog/single/s1.jpg" alt="box__image">
+                            <img src="HTML/assets/img/blog/single/s1.jpg" alt="box__image">
                         </div>
                         <div class="box__content">
                             <h4>
@@ -294,7 +294,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                         </h5>
                         <div class="post__wrap mb-4">
                             <div class="post__thumb">
-                                <img src="assets/img/blog/single/post1.jpg" alt="post__image">
+                                <img src="HTML/assets/img/blog/single/post1.jpg" alt="post__image">
                             </div>
                             <div class="post__content">
                                 <h6>top 10 wedding gifts</h6>
@@ -303,7 +303,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                         </div>
                         <div class="post__wrap mb-4">
                             <div class="post__thumb">
-                                <img src="assets/img/blog/single/post2.jpg" alt="post__image">
+                                <img src="HTML/assets/img/blog/single/post2.jpg" alt="post__image">
                             </div>
                             <div class="post__content">
                                 <h6>Best Photography Idea</h6>
@@ -312,7 +312,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                         </div>
                         <div class="post__wrap">
                             <div class="post__thumb">
-                                <img src="assets/img/blog/single/post3.jpg" alt="post__image">
+                                <img src="HTML/assets/img/blog/single/post3.jpg" alt="post__image">
                             </div>
                             <div class="post__content">
                                 <h6>Wedding Flower Collect</h6>

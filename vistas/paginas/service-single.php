@@ -41,7 +41,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-lg-8">
                 <div class="blog__single__items">
                     <div class="single__thumb">
-                        <img src="assets/img/service/single/image.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/service/single/image.jpg" alt="blog__image">
                     </div>
                     <div class="single__content">
                         <h3>
@@ -55,7 +55,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                                 <div class="service__items">
                                     <div class="service__thumb">
                                         <a href="index.php?pagina=service-single">
-                                            <img src="assets/img/service/service5.jpg" alt="service__image">
+                                            <img src="HTML/assets/img/service/service5.jpg" alt="service__image">
                                         </a>
                                     </div>
                                 </div>
@@ -64,7 +64,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                                 <div class="service__items">
                                     <div class="service__thumb">
                                         <a href="index.php?pagina=service-single">
-                                            <img src="assets/img/service/service4.jpg" alt="service__image">
+                                            <img src="HTML/assets/img/service/service4.jpg" alt="service__image">
                                         </a>
                                     </div>
                                 </div>

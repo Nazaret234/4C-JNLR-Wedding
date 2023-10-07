@@ -37,14 +37,14 @@ if (!isset($_SESSION["validarIngreso"])) {
 <!--=========== Blog Section Here ========= -->
 <section class="blog__section pt-120 pb-120">
     <div class="left__shape">
-        <img src="assets/img/testi/shape-left.png" alt="left__shape">
+        <img src="HTML/assets/img/testi/shape-left.png" alt="left__shape">
     </div>
     <div class="container">
         <div class="row g-4">
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="blog__items">
                     <div class="blog__thumb">
-                        <img src="assets/img/blog/blog1.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/blog1.jpg" alt="blog__image">
                     </div>
                     <div class="blog__content">
                         <h4>
@@ -62,7 +62,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="blog__items">
                     <div class="blog__thumb">
-                        <img src="assets/img/blog/blog2.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/blog2.jpg" alt="blog__image">
                     </div>
                     <div class="blog__content">
                         <h4>
@@ -80,7 +80,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="blog__items">
                     <div class="blog__thumb">
-                        <img src="assets/img/blog/blog3.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/blog3.jpg" alt="blog__image">
                     </div>
                     <div class="blog__content">
                         <h4>
@@ -98,7 +98,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="blog__items">
                     <div class="blog__thumb">
-                        <img src="assets/img/blog/blog1.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/blog1.jpg" alt="blog__image">
                     </div>
                     <div class="blog__content">
                         <h4>
@@ -116,7 +116,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="blog__items">
                     <div class="blog__thumb">
-                        <img src="assets/img/blog/blog2.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/blog2.jpg" alt="blog__image">
                     </div>
                     <div class="blog__content">
                         <h4>
@@ -134,7 +134,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="blog__items">
                     <div class="blog__thumb">
-                        <img src="assets/img/blog/blog3.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/blog3.jpg" alt="blog__image">
                     </div>
                     <div class="blog__content">
                         <h4>
@@ -152,7 +152,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="blog__items">
                     <div class="blog__thumb">
-                        <img src="assets/img/blog/blog1.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/blog1.jpg" alt="blog__image">
                     </div>
                     <div class="blog__content">
                         <h4>
@@ -170,7 +170,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="blog__items">
                     <div class="blog__thumb">
-                        <img src="assets/img/blog/blog2.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/blog2.jpg" alt="blog__image">
                     </div>
                     <div class="blog__content">
                         <h4>
@@ -188,7 +188,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="blog__items">
                     <div class="blog__thumb">
-                        <img src="assets/img/blog/blog3.jpg" alt="blog__image">
+                        <img src="HTML/assets/img/blog/blog3.jpg" alt="blog__image">
                     </div>
                     <div class="blog__content">
                         <h4>

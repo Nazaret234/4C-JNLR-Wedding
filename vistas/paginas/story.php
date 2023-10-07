@@ -37,23 +37,23 @@ if (!isset($_SESSION["validarIngreso"])) {
 <!--=========== About Section Here ========= -->
 <section class="about__section pt-120 pb-120">
     <div class="shape__right">
-        <img src="assets/img/about/shape/right.png" alt="shape-image">
+        <img src="HTML/assets/img/about/shape/right.png" alt="shape-image">
     </div>
     <div class="shape__one">
-        <img src="assets/img/about/shape/shape1.png" alt="shape-image">
+        <img src="HTML/assets/img/about/shape/shape1.png" alt="shape-image">
     </div>
     <div class="container">
         <div class="about__wrap">
             <div class="flower__shape wow fadeInUp" data-wow-duration="3s">
-                <img src="assets/img/about/shape/flower1.png" alt="flower__image">
+                <img src="HTML/assets/img/about/shape/flower1.png" alt="flower__image">
             </div>
             <div class="flower__shape__two wow fadeInDown" data-wow-duration="4s">
-                <img src="assets/img/about/shape/flower2.png" alt="flower__image">
+                <img src="HTML/assets/img/about/shape/flower2.png" alt="flower__image">
             </div>
             <div class="about__wrapper__one  owl-theme owl-carousel">
                 <div class="about__items">
                     <div class="about__thumb">
-                        <img src="assets/img/about/about1.jpg" alt="about__image">
+                        <img src="HTML/assets/img/about/about1.jpg" alt="about__image">
                         <div class="about__effect">
                             <h6 class="tittle">Photography</h6>
                         </div>
@@ -61,7 +61,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                 </div>
                 <div class="about__items">
                     <div class="about__thumb">
-                        <img src="assets/img/about/about2.jpg" alt="about__image">
+                        <img src="HTML/assets/img/about/about2.jpg" alt="about__image">
                         <div class="about__effect">
                             <h6 class="tittle">Fine Dining</h6>
                         </div>
@@ -69,7 +69,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                 </div>
                 <div class="about__items">
                     <div class="about__thumb">
-                        <img src="assets/img/about/about3.jpg" alt="about__image">
+                        <img src="HTML/assets/img/about/about3.jpg" alt="about__image">
                         <div class="about__effect">
                             <h6 class="tittle">Registry</h6>
                         </div>
@@ -84,17 +84,17 @@ if (!isset($_SESSION["validarIngreso"])) {
 <!--=========== Story Section Here ========= -->
 <section class="love__story__section pt-120 pb-120">
     <div class="left__shape wow fadeInDown" data-wow-duration="3s">
-        <img src="assets/img/testi/shape-left.png" alt="left__shape">
+        <img src="HTML/assets/img/testi/shape-left.png" alt="left__shape">
     </div>
     <div class="right__shape wow fadeInUp" data-wow-duration="4s">
-        <img src="assets/img/testi/shape-right.png" alt="left__shape">
+        <img src="HTML/assets/img/testi/shape-right.png" alt="left__shape">
     </div>
     <div class="container">
         <div class="section__header section__center wow fadeInDown" data-wow-duration="4s">
             <h2 class="section__title">
                 our love story
             </h2>
-            <img src="assets/img/tittle/flower.png" alt="flower__tittle">
+            <img src="HTML/assets/img/tittle/flower.png" alt="flower__tittle">
         </div>
         <div class="row g-4 align-items-center">
             <div class="col-lg-6 col-md-12">
@@ -112,12 +112,12 @@ if (!isset($_SESSION["validarIngreso"])) {
             </div>
             <div class="col-lg-6 col-md-12">
                 <div class="love__story__thumb">
-                    <img src="assets/img/love-story/love1.jpg" alt="love-image">
+                    <img src="HTML/assets/img/love-story/love1.jpg" alt="love-image">
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 pt-70">
                 <div class="love__story__thumb">
-                    <img src="assets/img/love-story/love2.jpg" alt="love-image">
+                    <img src="HTML/assets/img/love-story/love2.jpg" alt="love-image">
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 pt-70">
@@ -148,12 +148,12 @@ if (!isset($_SESSION["validarIngreso"])) {
             </div>
             <div class="col-lg-6 col-md-12">
                 <div class="love__story__thumb">
-                    <img src="assets/img/love-story/love3.jpg" alt="love-image">
+                    <img src="HTML/assets/img/love-story/love3.jpg" alt="love-image">
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 pt-70">
                 <div class="love__story__thumb">
-                    <img src="assets/img/love-story/love4.jpg" alt="love-image">
+                    <img src="HTML/assets/img/love-story/love4.jpg" alt="love-image">
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 pt-70">

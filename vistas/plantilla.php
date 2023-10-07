@@ -11,25 +11,25 @@ session_start();
     <meta name="author" content="NextGenerationDev">
     <title>Wedding, Wedding Planer & Event HTML Template</title>
     <!--Favicon img-->
-    <link rel="shortcut icon" href="assets/img/favicon/favicon.png">
+    <link rel="shortcut icon" href="HTML/assets/img/favicon/favicon.png">
     <!--Bootstarp min css-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="HTML/assets/css/bootstrap.min.css">
     <!--Bootstarp map css-->
-    <link rel="stylesheet" href="assets/css/bootstrap.css.map">
+    <link rel="stylesheet" href="HTML/assets/css/bootstrap.css.map">
     <!--Owl Carousel css-->
-    <link rel="stylesheet" href="assets/css/owl.min.css">
+    <link rel="stylesheet" href="HTML/assets/css/owl.min.css">
     <!--Owl Carousel Theme css-->
-    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="HTML/assets/css/owl.theme.default.min.css">
     <!--All min css-->
-    <link rel="stylesheet" href="assets/css/all.min.css">
+    <link rel="stylesheet" href="HTML/assets/css/all.min.css">
     <!--Animate css-->
-    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="HTML/assets/css/animate.css">
     <!--Magnific popup css-->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="HTML/assets/css/magnific-popup.css">
     <!--Swiper min css-->
-    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="HTML/assets/css/swiper-bundle.min.css">
     <!--main css-->
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="HTML/assets/css/main.css">
 </head>
 
 <body>
@@ -40,7 +40,7 @@ session_start();
             <div class="header-wrapper">
                 <div class="logo-menu">
                     <a href="index.php?pagina=home" class="logo">
-                        <img src="assets/img/logo/logo1.png" alt="img">
+                        <img src="HTML/assets/img/logo/logo1.png" alt="img">
                     </a>
                 </div>
                 <div class="header-bar d-lg-none">
@@ -178,7 +178,7 @@ session_start();
                 <div class="container">
                     <div class="footer__logo center">
                         <a href="index.php?pagina=home">
-                            <img src="assets/img/logo/logo.png" alt="footer__logo">
+                            <img src="HTML/assets/img/logo/logo.png" alt="footer__logo">
                         </a>
                     </div>
                     <div class="footer__bottom center">
@@ -220,21 +220,21 @@ session_start();
 
 
     <!--Jquery 3 6 0 Min Js-->
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="HTML/assets/js/jquery-3.6.0.min.js"></script>
     <!--Bootstrap bundle Js-->
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="HTML/assets/js/bootstrap.bundle.min.js"></script>
     <!--Viewport Jquery Js-->
-    <script src="assets/js/viewport.jquery.js"></script>
+    <script src="HTML/assets/js/viewport.jquery.js"></script>
     <!--Wow min Js-->
-    <script src="assets/js/wow.min.js"></script>
+    <script src="HTML/assets/js/wow.min.js"></script>
     <!--Owl Carousel min Js-->
-    <script src="assets/js/owl.min.js"></script>
+    <script src="HTML/assets/js/owl.min.js"></script>
     <!--Swiper min Js-->
-    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="HTML/assets/js/swiper-bundle.min.js"></script>
     <!--Magnific popup min Js-->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="HTML/assets/js/jquery.magnific-popup.min.js"></script>
     <!--main Js-->
-    <script src="assets/js/main.js"></script>
+    <script src="HTML/assets/js/main.js"></script>
 </body>
 
 </html>

@@ -77,7 +77,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             <h2 class="section__title">
                 have any question?
             </h2>
-            <img src="assets/img/tittle/flower.png" alt="flower__tittle">
+            <img src="HTML/assets/img/tittle/flower.png" alt="flower__tittle">
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-9">

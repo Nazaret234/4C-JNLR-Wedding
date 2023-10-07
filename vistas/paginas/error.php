@@ -29,7 +29,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-7">
                 <div class="error__thumb">
-                    <img src="assets/img/404/404.png" alt="error__image">
+                    <img src="HTML/assets/img/404/404.png" alt="error__image">
                 </div>
                 <div class="error__content">
                     <h3>

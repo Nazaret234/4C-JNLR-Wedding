@@ -41,12 +41,12 @@ if (!isset($_SESSION["validarIngreso"])) {
             <h2 class="section__title">
                 Wedding Party
             </h2>
-            <img src="assets/img/tittle/flower.png" alt="flower__tittle">
+            <img src="HTML/assets/img/tittle/flower.png" alt="flower__tittle">
         </div>
         <div class="wedding__party__warpper owl-carousel owl-theme">
             <div class="party__items">
                 <div class="party__thumb">
-                    <img src="assets/img/party/wedding1.jpg" alt="about-image">
+                    <img src="HTML/assets/img/party/wedding1.jpg" alt="about-image">
                 </div>
                 <div class="party__content">
                     <h4>
@@ -64,7 +64,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             </div>
             <div class="party__items">
                 <div class="party__thumb">
-                    <img src="assets/img/party/wedding2.jpg" alt="about-image">
+                    <img src="HTML/assets/img/party/wedding2.jpg" alt="about-image">
                 </div>
                 <div class="party__content">
                     <h4>
@@ -82,7 +82,7 @@ if (!isset($_SESSION["validarIngreso"])) {
             </div>
             <div class="party__items">
                 <div class="party__thumb">
-                    <img src="assets/img/party/wedding3.jpg" alt="about-image">
+                    <img src="HTML/assets/img/party/wedding3.jpg" alt="about-image">
                 </div>
                 <div class="party__content">
                     <h4>
@@ -106,24 +106,24 @@ if (!isset($_SESSION["validarIngreso"])) {
 <!--=========== Member Section Here ========= -->
 <section class="member__wedding__section pb-120">
     <div class="shape__one">
-        <img src="assets/img/member/left-shape.png" alt="left__shape">
+        <img src="HTML/assets/img/member/left-shape.png" alt="left__shape">
     </div>
     <div class="wedding__section pt-120">
         <div class="shape__two">
-            <img src="assets/img/member/rightt-shape.png" alt="left__shape">
+            <img src="HTML/assets/img/member/rightt-shape.png" alt="left__shape">
         </div>
         <div class="container">
             <div class="section__header section__center wow fadeInDown" data-wow-duration="4s">
                 <h2 class="section__title">
                     Wedding Info
                 </h2>
-                <img src="assets/img/tittle/flower.png" alt="flower__tittle">
+                <img src="HTML/assets/img/tittle/flower.png" alt="flower__tittle">
             </div>
             <div class="row g-4">
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 wow fadeInDown" data-wow-duration="7s">
                     <div class="wedding__items">
                         <div class="thumb">
-                            <img src="assets/img/wedding/wedding1.jpg" alt="team-img">
+                            <img src="HTML/assets/img/wedding/wedding1.jpg" alt="team-img">
                         </div>
                         <div class="content__cover">
                             <div class="wedding__content">
@@ -157,7 +157,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="5s">
                     <div class="wedding__items active__items">
                         <div class="thumb">
-                            <img src="assets/img/wedding/wedding2.jpg" alt="team-img">
+                            <img src="HTML/assets/img/wedding/wedding2.jpg" alt="team-img">
                         </div>
                         <div class="content__cover">
                             <div class="wedding__content">
@@ -191,7 +191,7 @@ if (!isset($_SESSION["validarIngreso"])) {
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 wow fadeInDown" data-wow-duration="2s">
                     <div class="wedding__items">
                         <div class="thumb">
-                            <img src="assets/img/wedding/wedding3.jpg" alt="team-img">
+                            <img src="HTML/assets/img/wedding/wedding3.jpg" alt="team-img">
                         </div>
                         <div class="content__cover">
                             <div class="wedding__content">
